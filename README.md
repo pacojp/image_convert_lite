@@ -1,5 +1,9 @@
 
-※スレッドセーフでは無いです(not thread_safe)
+# 概要
+
+何度も書いてはどこに行ったかわからなくなるImageMagickのラッパーを真面目にgem化しようと思い立ちました
+
+## スレッドセーフでは無いです(not thread_safe)
 
 ### テストは以下の感じで
 ruby test/test.rb
